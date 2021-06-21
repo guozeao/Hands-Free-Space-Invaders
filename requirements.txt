@@ -1,0 +1,11 @@
+tsfeatures
+scikit-learn==0.23.1
+sklearn
+scipy
+matplotlib
+pandas==1.0.5
+cache_decorator[numpy, pandas]
+pyserial
+sounddevice
+pygame
+pyenchant
